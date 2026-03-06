@@ -1,0 +1,9 @@
+# Esto es un comentario: el intérprete lo ignora
+nombre = "Usuario" 
+
+if nombre == "Usuario":
+    print("¡Hola! Bienvenido a tu clase en macOS.")
+
+
+
+    
