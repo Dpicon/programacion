@@ -7,7 +7,7 @@ ctk.set_default_color_theme("blue")
 class Calculadora(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Calculadora Pro")
+        self.title("CALCULADORA DARWIN PICON")
         self.geometry("300x450")
 
         # Pantalla de visualización
@@ -51,3 +51,5 @@ class Calculadora(ctk.CTk):
 if __name__ == "__main__":
     app = Calculadora()
     app.mainloop()
+
+    

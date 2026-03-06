@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['test moderno.py']
+APP = ['calculadora.py']
 DATA_FILES = []
 OPTIONS = {}
 
